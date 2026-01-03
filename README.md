@@ -15,6 +15,7 @@ This will run the script and process the shortcuts appropriately.
 
 ![screenshot1](Document/images/Steamhammer01.jpg)    
 
+Result:  
 ![screenshot1a](Document/images/Steamhammer02.jpg)    
 
 ### ChangeShortcut.vbs  
