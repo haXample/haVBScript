@@ -13,9 +13,9 @@ and, in the context menu choose *SendTo*
 and select *GetShortcutTarget.vbs*.  
 This will run the script and process the shortcuts appropriately.  
 
-![screenshot1](document/images/Steamhammer01.jpg)    
+![screenshot1](Document/images/Steamhammer01.jpg)    
 
-![screenshot1a](document/images/Steamhammer02.jpg)    
+![screenshot1a](Document/images/Steamhammer02.jpg)    
 
 ### ChangeShortcut.vbs  
 This VBscript adjusts the target path and working directory in shortcuts.     
