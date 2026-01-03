@@ -1,5 +1,4 @@
 # haVBScript
-# haVBScripts
 
 ### GetShortcutTarget.vbs  
 This VBscript copies the target file from a shortcut into the  
